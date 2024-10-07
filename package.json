@@ -1,0 +1,22 @@
+{
+  "name": "web_project_star_soccer_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "soccer",
+    "football",
+    "API"
+  ],
+  "author": "Fernando Fontes Hipólito",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.12.0",
+    "nodemon": "^3.1.7"
+  }
+}
